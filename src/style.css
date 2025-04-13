@@ -1,0 +1,97 @@
+:root {
+  font-family: 'SimSun', 'FangSong', serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  color: #333333;
+  background-color: #f9f6f0;
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #5d4037;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #8d6e63;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 2.6em;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 2em;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 1.6em;
+  line-height: 1.3;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid #8d6e63;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: rgba(141, 110, 99, 0.1);
+  color: #5d4037;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+button:hover {
+  background-color: rgba(141, 110, 99, 0.2);
+  border-color: #5d4037;
+}
+button:focus,
+button:focus-visible {
+  outline: 3px solid rgba(141, 110, 99, 0.3);
+}
+
+/* 移除卡片和应用宽度限制，适应大屏 */
+#app {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* 添加玻璃拟态效果通用类 */
+.glassmorphism {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

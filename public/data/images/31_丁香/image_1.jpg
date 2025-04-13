@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://unpkg.byted-static.com/latest/byted/arco-config/assets/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>药食同源数据库</title>
+    <script type="module" crossorigin src="/assets/index.ae828e6d.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/arco.fb18eee4.js">
+    <link rel="modulepreload" crossorigin href="/assets/chart.1ebcd647.js">
+    <link rel="modulepreload" crossorigin href="/assets/vue.f5781c45.js">
+    <link rel="stylesheet" href="/assets/index.bfb7d394.css">
+    
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?f7e9ce85906b859d47e96291f2a670d0";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
+  </head>
+  <body>
+    <div id="app"></div>
+    
+  </body>
+</html>

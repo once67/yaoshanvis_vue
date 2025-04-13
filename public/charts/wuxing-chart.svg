@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- 五行圆形布局 -->
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#8d6e63" stroke-width="2"/>
+  
+  <!-- 木（青） -->
+  <circle cx="200" cy="50" r="40" fill="#8db596" class="element"/>
+  <!-- 火（赤） -->
+  <circle cx="350" cy="200" r="40" fill="#d17b7b" class="element"/>
+  <!-- 土（黄） -->
+  <circle cx="200" cy="350" r="40" fill="#d1c37b" class="element"/> 
+  <!-- 金（白） -->
+  <circle cx="50" cy="200" r="40" fill="#c5c5c5" class="element"/>
+  <!-- 水（黑） -->
+  <circle cx="200" cy="200" r="40" fill="#7b9ed1" class="element"/>
+  
+  <!-- 相生箭头 -->
+  <path d="M200 90L200 150M200 110L190 100M200 110L210 100" stroke="#5d4037"/>
+  <!-- 其他相生相克关系线... -->
+</svg> 
