@@ -1,0 +1,402 @@
+[
+  {
+    "name": "止痛",
+    "value": 16
+  },
+  {
+    "name": "清热",
+    "value": 11
+  },
+  {
+    "name": "消食",
+    "value": 9
+  },
+  {
+    "name": "通便",
+    "value": 9
+  },
+  {
+    "name": "理气",
+    "value": 7
+  },
+  {
+    "name": "健脾",
+    "value": 7
+  },
+  {
+    "name": "润肠",
+    "value": 7
+  },
+  {
+    "name": "清热解毒",
+    "value": 7
+  },
+  {
+    "name": "止咳",
+    "value": 7
+  },
+  {
+    "name": "化痰",
+    "value": 6
+  },
+  {
+    "name": "散寒",
+    "value": 6
+  },
+  {
+    "name": "解毒",
+    "value": 6
+  },
+  {
+    "name": "消肿",
+    "value": 6
+  },
+  {
+    "name": "生津",
+    "value": 6
+  },
+  {
+    "name": "除烦",
+    "value": 6
+  },
+  {
+    "name": "化湿",
+    "value": 5
+  },
+  {
+    "name": "润燥",
+    "value": 5
+  },
+  {
+    "name": "止血",
+    "value": 5
+  },
+  {
+    "name": "补脾",
+    "value": 5
+  },
+  {
+    "name": "排脓",
+    "value": 5
+  },
+  {
+    "name": "凉血",
+    "value": 5
+  },
+  {
+    "name": "止泻",
+    "value": 5
+  },
+  {
+    "name": "利尿",
+    "value": 5
+  },
+  {
+    "name": "益气",
+    "value": 4
+  },
+  {
+    "name": "行气",
+    "value": 4
+  },
+  {
+    "name": "健胃",
+    "value": 4
+  },
+  {
+    "name": "通络",
+    "value": 4
+  },
+  {
+    "name": "益肾",
+    "value": 4
+  },
+  {
+    "name": "利水",
+    "value": 4
+  },
+  {
+    "name": "明目",
+    "value": 4
+  },
+  {
+    "name": "利咽",
+    "value": 4
+  },
+  {
+    "name": "安神",
+    "value": 4
+  },
+  {
+    "name": "平喘",
+    "value": 4
+  },
+  {
+    "name": "解表",
+    "value": 3
+  },
+  {
+    "name": "补肾",
+    "value": 3
+  },
+  {
+    "name": "温中",
+    "value": 3
+  },
+  {
+    "name": "补中",
+    "value": 3
+  },
+  {
+    "name": "燥湿",
+    "value": 3
+  },
+  {
+    "name": "散瘀",
+    "value": 3
+  },
+  {
+    "name": "祛风",
+    "value": 3
+  },
+  {
+    "name": "滋阴",
+    "value": 3
+  },
+  {
+    "name": "固精",
+    "value": 3
+  },
+  {
+    "name": "祛痰",
+    "value": 3
+  },
+  {
+    "name": "风热",
+    "value": 3
+  },
+  {
+    "name": "杀虫",
+    "value": 3
+  },
+  {
+    "name": "清肝",
+    "value": 3
+  },
+  {
+    "name": "肝肾",
+    "value": 3
+  },
+  {
+    "name": "补气",
+    "value": 3
+  },
+  {
+    "name": "润肺",
+    "value": 3
+  },
+  {
+    "name": "散结",
+    "value": 3
+  },
+  {
+    "name": "生津止渴",
+    "value": 3
+  },
+  {
+    "name": "宽中",
+    "value": 2
+  },
+  {
+    "name": "温中散",
+    "value": 2
+  },
+  {
+    "name": "透疹",
+    "value": 2
+  },
+  {
+    "name": "散风",
+    "value": 2
+  },
+  {
+    "name": "止带",
+    "value": 2
+  },
+  {
+    "name": "消暑",
+    "value": 2
+  },
+  {
+    "name": "养阴润",
+    "value": 2
+  },
+  {
+    "name": "心安神",
+    "value": 2
+  },
+  {
+    "name": "泻火",
+    "value": 2
+  },
+  {
+    "name": "消痰",
+    "value": 2
+  },
+  {
+    "name": "滋补",
+    "value": 2
+  },
+  {
+    "name": "养阴",
+    "value": 2
+  },
+  {
+    "name": "温胃",
+    "value": 2
+  },
+  {
+    "name": "益精",
+    "value": 2
+  },
+  {
+    "name": "软坚散结",
+    "value": 2
+  },
+  {
+    "name": "滑肠",
+    "value": 2
+  },
+  {
+    "name": "通淋",
+    "value": 2
+  },
+  {
+    "name": "养胃",
+    "value": 2
+  },
+  {
+    "name": "生津益",
+    "value": 2
+  },
+  {
+    "name": "气温",
+    "value": 2
+  },
+  {
+    "name": "开胃",
+    "value": 2
+  },
+  {
+    "name": "活血",
+    "value": 2
+  },
+  {
+    "name": "养血",
+    "value": 2
+  },
+  {
+    "name": "利湿",
+    "value": 2
+  },
+  {
+    "name": "舒肺",
+    "value": 1
+  },
+  {
+    "name": "发汗",
+    "value": 1
+  },
+  {
+    "name": "补肝肾",
+    "value": 1
+  },
+  {
+    "name": "强筋骨",
+    "value": 1
+  },
+  {
+    "name": "温中降",
+    "value": 1
+  },
+  {
+    "name": "助阳",
+    "value": 1
+  },
+  {
+    "name": "抗氧化",
+    "value": 1
+  },
+  {
+    "name": "抑菌",
+    "value": 1
+  },
+  {
+    "name": "抗炎",
+    "value": 1
+  },
+  {
+    "name": "保鲜",
+    "value": 1
+  },
+  {
+    "name": "解热",
+    "value": 1
+  },
+  {
+    "name": "抗病毒",
+    "value": 1
+  },
+  {
+    "name": "阳散寒",
+    "value": 1
+  },
+  {
+    "name": "理气止痛",
+    "value": 1
+  },
+  {
+    "name": "益肺",
+    "value": 1
+  },
+  {
+    "name": "破血",
+    "value": 1
+  },
+  {
+    "name": "通经",
+    "value": 1
+  },
+  {
+    "name": "截疟",
+    "value": 1
+  },
+  {
+    "name": "化浊",
+    "value": 1
+  },
+  {
+    "name": "降脂",
+    "value": 1
+  },
+  {
+    "name": "精止",
+    "value": 1
+  },
+  {
+    "name": "补血",
+    "value": 1
+  },
+  {
+    "name": "胃止",
+    "value": 1
+  },
+  {
+    "name": "芳香化浊",
+    "value": 1
+  },
+  {
+    "name": "中止",
+    "value": 1
+  }
+]

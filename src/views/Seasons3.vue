@@ -39,9 +39,9 @@
 
 <script setup>
 import { computed, onMounted, ref } from 'vue';
+import monthsData from '../../data/months_data.json?url';
 import { DataVisualization, PersonalRecommendation, SeasonCalendar } from '../components/seasons';
 import { useSeasonsStore } from '../store';
-import monthsData from '../../public/data/months_data.json';
 
 // 状态管理
 const seasonsStore = useSeasonsStore();

@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import ExcelService from '../utils/ExcelService'
+import { getDataPath } from '../utils/paths'
 
 // 药食数据库相关状态
 export const useHerbalStore = defineStore('herbal', {
@@ -29,7 +30,7 @@ export const useHerbalStore = defineStore('herbal', {
     
     async fetchFiveElementData() {
       try {
-        const response = await fetch('/data/herbal_five_elements.json')
+        const response = await fetch(getDataPath('/data/herbal_five_elements.json'))
         this.fiveElementData = await response.json()
         console.log('五行数据加载成功:', this.fiveElementData.length)
       } catch (error) {
@@ -44,8 +45,8 @@ export const useHerbalStore = defineStore('herbal', {
       this.error = null
       
       try {
-        console.log('发起请求: /data/herbal_detailed_data.json')
-        const response = await fetch('/data/herbal_detailed_data.json')
+        console.log('发起请求: ' + getDataPath('/data/herbal_detailed_data.json'))
+        const response = await fetch(getDataPath('/data/herbal_detailed_data.json'))
         
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`)
@@ -92,7 +93,7 @@ export const useHerbalStore = defineStore('herbal', {
     
     async fetchGeoData() {
       try {
-        const response = await fetch('/data/hebal_geo.json')
+        const response = await fetch(getDataPath('/data/hebal_geo.json'))
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`)
         }
